@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9087
-Fork on GitHub2039
+
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
