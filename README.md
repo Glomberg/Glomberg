@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glomberg" alt="glomberg" /></a> </p>
 
-- 🔭 I’m currently working on [CleanTalk](cleantalk.org/)
+- 🔭 I’m currently working on [CleanTalk](https://cleantalk.org)
 
 <p align="left">
 </p>
